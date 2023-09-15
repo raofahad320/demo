@@ -3,6 +3,12 @@ This l;ine is also written in main branch
 
 this line is represent feature1
 this line also represent feature1
+<<<<<<< HEAD
+
+this line is feature 3
+this line is also feature3
+this is another line of feature3
+=======
 this lines  creates feature2
 this lines also creates feature2
 this line is also feature2
@@ -10,3 +16,4 @@ one commit
 this is also one
 newwwwwwwwwww feature 6
 ytuytuy
+>>>>>>> main
