@@ -6,3 +6,5 @@ this line also represent feature1
 this lines  creates feature2
 this lines also creates feature2
 this line is also feature2
+one commit
+this is also one
